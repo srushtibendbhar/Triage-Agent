@@ -37,8 +37,9 @@ For every support ticket, the agent:
 
 
 
-### Step 1: Install pandas
+
 ```bash
+### Step 1: Install pandas
 pip install pandas
 
 Step 2: Run the agent
